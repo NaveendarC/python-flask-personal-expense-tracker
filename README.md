@@ -1,5 +1,8 @@
 # python-flask-personal-expense-tracker
-personal expense tracker using flask Personal Expense Tracker
+   personal expense tracker using flask Personal Expense Tracker
+
+                    OVERVIEW OF MY WEB APPLICATION
+          
 ![image](https://github.com/user-attachments/assets/8eaf924d-f99d-45b4-adc5-948c050e2644)
 ![image](https://github.com/user-attachments/assets/7ead3063-3121-4ec5-80b6-50f2f2070a0c)
 ![image](https://github.com/user-attachments/assets/115f967b-2ff6-48ba-8039-fb290fc031eb)
